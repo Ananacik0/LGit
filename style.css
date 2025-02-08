@@ -3,7 +3,19 @@
   padding: 0;
   box-sizing: border-box;
   list-style-type: none;
-  color: #000;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  color: #436f4d;
+=======
+  color: #ff0000;
+>>>>>>> master
+=======
+  color: #999999;
+>>>>>>> master
+=======
+  color: #999999;
+>>>>>>> master
   text-decoration: none;
   text-transform: none;
   border: none;
@@ -11,3 +23,6 @@
   outline: none;
 }
 
+body {
+  background: #999999;
+}
